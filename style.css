@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.canvas {
+    margin: 200px;
+    text-align: center;
+    width: 80%;
+    height: 320px;
+}
+.buttons{
+    border: 5px solid black; 
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+   display: inline-block;
+   cursor: pointer;
+}
+#red {
+    background-color: red;
+}
+#grey {
+    background-color: grey;
+}
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+#pink {
+    background-color: pink;
+}
